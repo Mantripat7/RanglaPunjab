@@ -1,4 +1,4 @@
-<h3>RanglaPunjab : official Punjab's website /h3>
+<h3>RanglaPunjab : official Punjab's website </h3>
 Here, this webpage is created by using the traditional method. All the webpages are created by using the table method, which enhance the proper understanding in the table.
 This was build by the purpose of creating the website without use of 'div' tag.
 Therefore, no div tag is used for making the code blocks.
